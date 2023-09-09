@@ -1,0 +1,11 @@
+name: MMORPG-Game-Plugin
+version: 1.0
+author: Triple_Steak
+main: me.simon76800.game.GameMain
+api_version: 1.13
+depend: [MMORPG-Library, ProtocolLib]
+
+commands:
+   spawn_mob:
+      description: Spawns in a wood bison
+      usage: /spawn_mob

@@ -1,0 +1,6 @@
+name: MMORPG-Lobby-Plugin
+version: 1.0
+author: Triple_Steak
+api-version: 1.13
+main: me.simon76800.lobby.LobbyMain
+depend: [MMORPG-Library, ProtocolLib]

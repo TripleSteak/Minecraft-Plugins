@@ -1,0 +1,6 @@
+name: MMORPG-Library
+version: 1.0
+author: Triple_Steak
+api-version: 1.13
+main: me.simon76800.library.Main
+depend: [ProtocolLib]
