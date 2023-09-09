@@ -1,0 +1,16 @@
+main: me.triplesteak.metropolis.Metropolis
+name: Metropolis
+version: 1.0.0
+description: Hooray!!
+api-version: 1.16
+author: Triple_Steak
+
+depend: [LightAPI]
+
+commands:
+   wallet:
+      description: Obtain a creeper wallet with $100.
+      usage: /wallet
+   playerhead:
+      description: Obtain one of the plugin-registered player heads.
+      usage: /playerhead <name>
