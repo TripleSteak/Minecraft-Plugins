@@ -25,4 +25,4 @@ Welcome to my **Minecraft Plugins** repository! A sizable chunk of the second ha
 - An assassin's dagger that can be used to damage mobs within the custom combat and hitbox system; and
 - An enormous boreal forest!
 
-![minecraft-plugins](https://github.com/TripleSteak/Minecraft-Plugins/assets/24597462/7adaab04-0c11-4523-8d5c-203b2f589c94)
+![Minecraft-Plugins](https://github.com/TripleSteak/Minecraft-Plugins/assets/24597462/7adaab04-0c11-4523-8d5c-203b2f589c94)
